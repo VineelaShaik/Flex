@@ -195,7 +195,7 @@ html{
    display: flex;
    justify-content: space-around;
    &>div{
-    flex-basis: 50%;
+    flex-basis: 40%;
     & h3{
         padding-bottom: 20px;
     }
@@ -203,7 +203,7 @@ html{
         padding-top: 20px;
     }
     &+div{
-        flex-basis: 25%;
+        flex-basis: 15%;
     }
     ul{
         padding: 0;
