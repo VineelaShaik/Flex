@@ -206,13 +206,14 @@ html{
    display: flex;
    justify-content: space-around;
    &>div{
+       flex-basis:40%
     & h3{
         padding-bottom: 20px;
     }
     & h4{
         padding-top: 20px;
     }
-    }
+  
     ul{
         padding: 0;
         margin: 0;
