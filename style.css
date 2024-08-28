@@ -49,7 +49,7 @@ html{
     display:flex;
     padding:5% 20%;
     background-image:url(images/1600w-6IEANYdlXKs.webp);
-    background-position:cover;
+    background-size:cover;
     & div{
         margin:10px;
         background-color: #f2efee;
